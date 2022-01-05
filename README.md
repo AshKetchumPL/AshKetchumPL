@@ -1,4 +1,4 @@
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/717337516830752788)](https://discord.com/users/717337516830752788)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/480110129971200010)](https://discord.com/users/480110129971200010)
 
 
 - 👋 Hi, I’m @kotpolsa123
