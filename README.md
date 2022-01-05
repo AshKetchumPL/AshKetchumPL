@@ -1,8 +1,11 @@
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/717337516830752788)](https://discord.com/users/717337516830752788)
+
+
 - 👋 Hi, I’m @kotpolsa123
 - 👀 I’m interested in skript, batch
 - 🌱 I’m currently learning skript
 - 📫 How to reach me :
-discord: >>ash ketchum<< [GP]#0001
+discord: R0∁K#6595
 email: kotpolska1123@gmail.com
 
 <!---
