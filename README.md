@@ -1,11 +1,10 @@
 ![](https://komarev.com/ghpvc/?username=AshKetchumPL)
 
-- 👋 Hi, I’m @kotpolsa123
+- 👋 Hi, I’m @AshKetchumPL
 - 👀 I’m interested in python
 - 🌱 I’m currently learning discord.py
-- 📫 How to reach me :
-    discord: >>ash ketchum<<#6595
-    email: kotpolska1123@gmail.com
+- 📫 How to reach me:
+    - discord: >>ash ketchum<<#6595
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/480110129971200010)](https://discord.com/users/480110129971200010)
 
