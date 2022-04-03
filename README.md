@@ -1,6 +1,6 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/480110129971200010)](https://discord.com/users/480110129971200010)
 
-<img src=”https://komarev.com/ghpvc/?username=AshKetchumPL" alt=”AshKetchumPL” />
+![](https://komarev.com/ghpvc/?username=AshKetchumPL)
 
 - 👋 Hi, I’m @kotpolsa123
 - 👀 I’m interested in skript, batch
