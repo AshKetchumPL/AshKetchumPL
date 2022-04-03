@@ -1,8 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=AshKetchumPL)
 
 - 👋 Hi, I’m @kotpolsa123
-- 👀 I’m interested in skript, batch
-- 🌱 I’m currently learning skript
+- 👀 I’m interested in python
+- 🌱 I’m currently learning discord.py
 - 📫 How to reach me :
     discord: >>ash ketchum<<#6595
     email: kotpolska1123@gmail.com
