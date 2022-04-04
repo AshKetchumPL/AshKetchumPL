@@ -1,5 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=AshKetchumPL)
 
+[Give me an idea here](https://github.com/AshKetchumPL/give-me-an-idea/issues)
+
 - 👋 Hi, I’m @AshKetchumPL
 - 👀 I’m interested in python
 - 🌱 I’m currently learning discord.py
