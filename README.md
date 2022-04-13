@@ -1,4 +1,6 @@
-![](https://komarev.com/ghpvc/?username=AshKetchumPL)
+![profile views](https://komarev.com/ghpvc/?username=AshKetchumPL)
+
+![stats](https://github-readme-stats.vercel.app/api?username=AshKetchumPL&show_icons=true&hide=prs&theme=radical)
 
 - [Give me an idea here](https://github.com/AshKetchumPL/give-me-an-idea/issues)
 
