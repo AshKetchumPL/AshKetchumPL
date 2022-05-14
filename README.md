@@ -8,7 +8,7 @@
 - 👀 I’m interested in [python](https://www.python.org/)
 - 🌱 I’m currently learning [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
 - 📫 How to reach me:
-    - discord: >>ash ketchum<<#6595
+    - discord: [>>ash ketchum<<#6595](https://discord.com/users/480110129971200010)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/480110129971200010)](https://discord.com/users/480110129971200010)
 
