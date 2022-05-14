@@ -5,8 +5,8 @@
 - [Give me an idea here](https://github.com/AshKetchumPL/give-me-an-idea/issues)
 
 - 👋 Hi, I’m @AshKetchumPL
-- 👀 I’m interested in python
-- 🌱 I’m currently learning discord.py
+- 👀 I’m interested in [python](https://www.python.org/)
+- 🌱 I’m currently learning [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
 - 📫 How to reach me:
     - discord: >>ash ketchum<<#6595
 
