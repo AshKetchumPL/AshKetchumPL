@@ -10,6 +10,12 @@
 - 📫 How to reach me:
     - discord: [>>ash ketchum<<#6595](https://discord.com/users/480110129971200010)
 
+my skills 🧑‍💻: 
+
+[![My Skills](https://skillicons.dev/icons?i=cs,discord,bots,dotnet,firebase,github,py,stackoverflow,vscode&perline=3)](https://skillicons.dev)
+
+discord:
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/480110129971200010)](https://discord.com/users/480110129971200010)
 
 <!---
