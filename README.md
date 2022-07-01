@@ -1,22 +1,9 @@
-![profile views](https://komarev.com/ghpvc/?username=AshKetchumPL)
+```
+$ fetch github.com/AshKetchumPL 
 
-![stats](https://github-readme-stats.vercel.app/api?username=AshKetchumPL&show_icons=true&hide=prs&theme=radical)
+ERROR ash is on vacation!
 
-- [Give me an idea here](https://github.com/AshKetchumPL/give-me-an-idea/issues)
-
-- 👋 Hi, I’m @AshKetchumPL
-- 👀 I’m interested in [python](https://www.python.org/)
-- 🌱 I’m currently learning [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
-- 📫 How to reach me:
-    - discord: [>>ash ketchum<<#6595](https://discord.com/users/480110129971200010)
-
-my skills 🧑‍💻: 
-
-[![My Skills](https://skillicons.dev/icons?i=cs,discord,bots,dotnet,firebase,github,py,stackoverflow,vscode&perline=3)](https://skillicons.dev)
-
-discord:
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/480110129971200010)](https://discord.com/users/480110129971200010)
+```
 
 <!---
 kotpolsa123/kotpolsa123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
