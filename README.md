@@ -5,6 +5,7 @@
 AshKetchum {
  id: 480110129971200010
  discord: >>ash ketchum<<#6595
+ timezone: ⌛ UTC+2
  languages [
    js,
    python,
