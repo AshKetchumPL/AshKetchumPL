@@ -11,7 +11,7 @@ AshKetchum {
    Polish,
    English,
  ]
- os: Kali Linux
+ os: Kali GNU/Linux x64 (kernal: 5.16.0-kali7-amd64)
  hardware {
      CPU: Intel i5-9400F (6) @ 4.100GHz
      GPU: NVIDIA GeForce RTX 2060
